@@ -1,0 +1,22 @@
+INSERT INTO `languages` VALUES ('af', 'utf-8', 'ltr', 'af|afrikaans', 'Afrikaans', 'Afrikaans', 1);
+
+INSERT INTO `language_text` VALUES ('af', '_template', 'access', 'Toegang', '2005-09-18 12:20:24', ''),
+('af', '_template', 'disable', 'Deaktiveer', '2005-09-18 12:26:22', ''),
+('af', '_template', 'enable', 'Aktiveer', '2005-09-18 12:26:40', ''),
+('af', '_template', 'or', 'Of', '2005-09-18 12:30:48', ''),
+('af', '_template', 'other', 'Ander', '2005-09-18 12:31:08', ''),
+('af', '_template', 'page', 'Bladsy', '2005-09-18 12:31:26', ''),
+('af', '_template', 'pages_found', 'Nuwe bladsye gevind', '2005-09-18 12:32:13', ''),
+('af', '_template', 'password', 'Wagwoord', '2005-09-18 12:33:47', ''),
+('af', '_template', 'password_again', 'Herhaal Wagwoord', '2005-09-18 12:34:10', ''),
+('af', '_template', 'period', 'Periode', '2005-09-18 12:35:13', ''),
+('af', '_template', 'personal_information', 'Persoonlike Inligting', '2005-09-18 12:35:37', ''),
+('af', '_template', 'per_day', 'per dag', '2005-09-18 12:35:54', ''),
+('af', '_template', 'preferences', 'Voorkeure', '2005-09-18 12:27:38', ''),
+('af', '_template', 'previous', 'Vorige', '2005-09-18 12:28:38', ''),
+('af', '_template', 'previous_topic', 'Vorige Onderwerp', '2005-09-18 12:29:49', ''),
+('af', '_template', 'private', 'Privaat', '2005-09-18 12:30:12', ''),
+('af', '_template', 'theme', 'Tema', '2005-09-18 12:21:50', ''),
+('af', '_template', 'themes', 'Temas', '2005-09-18 12:22:06', ''),
+('af', '_template', 'title', 'Titel', '2005-09-18 12:22:59', ''),
+('af', '_template', 'topic', 'Onderwerp', '2005-09-18 12:23:33', '');
